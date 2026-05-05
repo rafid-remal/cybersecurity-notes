@@ -1,37 +1,49 @@
-# Linux Basics
+# 🐧 Linux Basics
 
 ---
 
-## What is Linux?
+## 📌 What is Linux?
 Linux is an open-source operating system widely used in servers and cybersecurity.
 
 ---
 
-## Important Commands
+## ⚡ Important Commands
 
-### List files
+### 📂 List files
+```bash
 ls
+```
 
-### Change directory
+### 📁 Change directory
+```bash
 cd folder_name
+```
 
-### Show current directory
+### 📍 Show current directory
+```bash
 pwd
+```
 
-### Create file
+### 📄 Create file
+```bash
 touch file.txt
+```
 
-### Remove file
+### ❌ Remove file
+```bash
 rm file.txt
+```
 
 ---
 
-## File Permissions
+## 🔐 File Permissions
 
-Example:
+### Example:
+```bash
 -rwxr-xr--
+```
 
-Meaning:
-- Owner: read, write, execute
-- Group: read, execute
-- Others: read only
+### Meaning:
+- 👤 Owner: read, write, execute
+- 👥 Group: read, execute
+- 🌍 Others: read only
